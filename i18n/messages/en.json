@@ -1,0 +1,126 @@
+{
+  "nav": {
+    "services": "Services",
+    "how_it_works": "How It Works",
+    "industries": "Industries",
+    "about": "About SABAT",
+    "faq": "FAQ",
+    "sign_in": "Sign in",
+    "sign_up": "Sign Up",
+    "book_consultation": "Book Consultation"
+  },
+  "hero": {
+    "tagline": "Professional Corporate Travel Management",
+    "title": "Your Global Partner in Corporate Travel",
+    "description": "SABAT helps organizations coordinate accommodation, executive hospitality, transfers, and business travel operations through one trusted partner."
+  },
+  "metrics": {
+    "enterprise_trust": "Enterprise Trust Metrics",
+    "organization_partners": "Organization Partners",
+    "service_satisfaction": "Service Satisfaction",
+    "hotel_partners": "Hotel Partners",
+    "cities_covered": "Cities Covered"
+  },
+  "features": {
+    "title": "Our Services",
+    "accommodation": "Accommodation Coordination",
+    "accommodation_desc": "Manage corporate housing and temporary accommodations globally",
+    "hospitality": "Executive Hospitality",
+    "hospitality_desc": "Premium guest services and executive reception management",
+    "transfers": "Ground Transportation",
+    "transfers_desc": "Seamless airport pickups and business travel logistics",
+    "operations": "Travel Operations",
+    "operations_desc": "End-to-end business travel management and support"
+  },
+  "how_it_works": {
+    "title": "How SABAT Works",
+    "step1": "Consultation",
+    "step1_desc": "Discuss your travel needs",
+    "step2": "Planning",
+    "step2_desc": "Customized solutions designed",
+    "step3": "Support",
+    "step3_desc": "24/7 dedicated assistance",
+    "step4": "Success",
+    "step4_desc": "Seamless operations delivered"
+  },
+  "industries": {
+    "title": "Industries We Serve"
+  },
+  "faq": {
+    "title": "Questions & Answers",
+    "q1": "What services does SABAT provide?",
+    "a1": "SABAT provides comprehensive corporate travel solutions including accommodation coordination, executive hospitality, ground transportation, and 24/7 travel operations support.",
+    "q2": "How can we get started?",
+    "a2": "Start by requesting a consultation. Our team will discuss your needs and design a customized proposal.",
+    "q3": "Do you operate internationally?",
+    "a3": "Yes, SABAT operates across multiple countries with a network of trusted local partners.",
+    "q4": "What is your availability?",
+    "a4": "We provide 24/7 support for all corporate travel needs and emergencies.",
+    "q5": "How do organizations begin working with SABAT?",
+    "a5": "Start by requesting a consultation. During this initial meeting, we'll discuss your organization's travel needs, objectives, and current challenges. We'll then design a customized proposal and onboarding plan that works for your team."
+  },
+  "contact": {
+    "title": "Get Started",
+    "description": "Ready to transform your corporate travel management?",
+    "phone": "Phone",
+    "email": "Email",
+    "address": "Address",
+    "schedule_meeting": "Schedule a Meeting"
+  },
+  "footer": {
+    "copyright": "2026 SABAT - Professional Corporate Travel Management. All rights reserved."
+  },
+  "cta": {
+    "request_consultation": "Request Consultation",
+    "book_demo": "Book a Demo",
+    "book_consultation": "Book Consultation"
+  },
+  "buttons": {
+    "learn_more": "Learn More",
+    "get_started": "Get Started",
+    "contact_us": "Contact Us",
+    "view_all": "View All"
+  },
+  "logo_showcase": {
+    "trusted_by": "Trusted by leading organizations worldwide"
+  },
+  "proven_partner": "Proven partner for organizations.",
+  "faq": {
+    "title": "Questions & Answers",
+    "subtitle": "questions.",
+    "q1": "How are services customized for our organization?",
+    "a1": "We begin with a comprehensive consultation to understand your travel patterns, budget, service preferences, and specific requirements. Based on these insights, we design tailored service packages that address your unique operational challenges and objectives.",
+    "q2": "Can SABAT support nationwide operations?",
+    "a2": "Yes. Our nationwide hospitality network and partnerships enable us to coordinate accommodation and travel across all major cities and regions. Whether your team travels locally or nationally, we maintain consistent service standards and coordination.",
+    "q3": "Do you provide ongoing support?",
+    "a3": "Absolutely. We provide 24/7 operational support throughout all business journeys. Our team is available before, during, and after travel to address any changes, issues, or last-minute adjustments that may arise.",
+    "q4": "Can travel arrangements change after confirmation?",
+    "a4": "Yes. We understand that business needs evolve. Our team manages any changes, cancellations, or modifications with flexibility and responsiveness. We work with our partners to minimize disruptions and ensure smooth transitions.",
+    "q5": "How do organizations begin working with SABAT?",
+    "a5": "Start by requesting a consultation. During this initial meeting, we'll discuss your organization's travel needs, objectives, and current challenges. We'll then design a customized proposal and onboarding plan that works for your team."
+  },
+  "contact": {
+    "title": "Get Started",
+    "subtitle": "ready",
+    "description": "Whether managing executive guests, employee missions, or long-term accommodation projects, SABAT becomes an extension of your team.",
+    "cta_text": "Ready to get SABATIZED?",
+    "business_whatsapp": "WhatsApp Business",
+    "office": "Office",
+    "mobile": "Mobile",
+    "email": "Email",
+    "address": "Address",
+    "connect_with_us": "Connect With Us",
+    "organization_name": "Organization Name",
+    "contact_person": "Contact Person",
+    "service_interest": "Service Interest",
+    "message": "Message",
+    "message_placeholder": "Tell us about your travel coordination needs...",
+    "corporate_accommodation": "Corporate Accommodation",
+    "transfers_hospitality": "Transfers & Executive Hospitality",
+    "business_travel_operations": "Business Travel Operations",
+    "all_services": "All Services",
+    "book_consultation": "Book Consultation",
+    "thank_you": "Thank you!",
+    "response_time": "We'll respond within 24 business hours."
+  }
+}

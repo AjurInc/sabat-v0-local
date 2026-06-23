@@ -1,0 +1,19 @@
+{
+  "nav": {
+    "services": "Hizmetler",
+    "how_it_works": "Nasıl Çalışır",
+    "industries": "Endüstriler",
+    "about": "SABAT Hakkında",
+    "faq": "Sıkça Sorulanlar",
+    "sign_in": "Oturum Aç",
+    "request_consultation": "Danışmanlık İste"
+  },
+  "hero": {
+    "introducing": "Tanıtıyoruz",
+    "excellence_in_motion": "Hareket İçinde Mükemmellik"
+  },
+  "cta": {
+    "request_consultation": "Danışmanlık İste",
+    "book_demo": "Demog Göster"
+  }
+}

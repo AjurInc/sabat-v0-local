@@ -1,0 +1,19 @@
+{
+  "nav": {
+    "services": "الخدمات",
+    "how_it_works": "كيفية العمل",
+    "industries": "الصناعات",
+    "about": "حول SABAT",
+    "faq": "الأسئلة الشائعة",
+    "sign_in": "تسجيل الدخول",
+    "request_consultation": "طلب استشارة"
+  },
+  "hero": {
+    "introducing": "تقديم",
+    "excellence_in_motion": "التميز في الحركة"
+  },
+  "cta": {
+    "request_consultation": "طلب استشارة",
+    "book_demo": "احجز عرضًا توضيحيًا"
+  }
+}
